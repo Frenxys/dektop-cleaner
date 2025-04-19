@@ -20,5 +20,4 @@ build/
 .cache/
 .tmp/
 temp/
-
-
+.parcel-cache/
